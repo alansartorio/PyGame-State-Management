@@ -1,1 +1,1 @@
-# PyGame-State-Management
+# PyGame State Management
